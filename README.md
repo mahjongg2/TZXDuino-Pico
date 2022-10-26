@@ -1,4 +1,4 @@
-# TZXDuino-Nano
+# TZXDuino-Pico
 A small board that can be built into a home computer, that can send cassette data read from an SD-Card to its cassette input
 With one button you can page through the avaialble files (games) and by pressing another button start playback, after first entering CLOAD "" on the Spectrum.
 
