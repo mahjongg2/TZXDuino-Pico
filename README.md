@@ -3,7 +3,7 @@
 A small board that can be built into a home computer, that can send cassette data read from an SD-Card to its cassette input
 With one button you can page through the avaialble files (games) and by pressing another button start playback, after first entering CLOAD "" on the Spectrum.
 
-This device can use the (arduino) software of a regular TZXDuino (or compatible device like a CASDuino), but has been simplified and normally doesn't have a display or a full set of buttons (although both can be added if you want)
+This device can use the (arduino) software of a regular TZXDuino (or compatible device like a CASDuino), but has been simplified and normally doesn't have a display or a full set of buttons (although both can be added if you want). you can also modifiy the software so that it sends its display output to the serial port of the Arduino, so you can see it on the built in terminal software of the Arduino IDE, you can use it to debug the system.
 
 You can read more about it on my Revspace wiki project page here: https://revspace.nl/TZXDuino_pico
 
