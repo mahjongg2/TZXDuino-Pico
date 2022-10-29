@@ -9,4 +9,5 @@ You can read more about it on my Revspace wiki project page here: https://revspa
 
 This project is open source, so I also uploaded the CAD files (for KiCad 6) so you can create your own version.
 
-This device can also be used (perhaps with modified software) for other cases where you want an Arduino that has an SD-Card interface to read or safe data to.
+This device can also be used (perhaps with modified software) for other projects where you want an Arduino that has an SD-Card interface to read or safe data to.
+when ordering PCB's you can enter that it is 37.1mm wide, and 47.2mm high, and is a 2 layer board.
