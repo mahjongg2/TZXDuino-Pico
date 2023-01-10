@@ -22,3 +22,4 @@ I added a .png picture showing a 3D preview of a partially built up TZXDuino-pic
 You can use this picture https://forums.raspberrypi.com/viewtopic.php?t=254492&start=175#p2064969 as an example of the wiring. 
 As for the buttons, I used the simple pushbuttons in a cylindrical body with a mushroom shaped button, I drilled two 7mm holes through which the thread of the buttons went, and a hex nut to mount the buttons to the back of the raspberry PI.
 I used the cheapest normally open buttons like this https://www.reichelt.nl/us/en/miniature-push-button-on-0-5-a-250-vac-red-t-113a-rt-p45166.html?&trstct=pos_0&nbc=1 but if you have another idea, then go ahead, as long as you use normally open buttons it will be fine.
+I suggest using two different colors for the play and next button.
