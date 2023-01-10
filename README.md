@@ -17,3 +17,5 @@ The same buttons as used in the ZX81+38 keyboard, although it is perhaps prefera
 This is revision 1,2 It has a 180 degrees rotated card holder, as the card needed to be sticked in from the side with the solderpads, and with the first revision that side was on the side of the resistors, so you could not insert the sd-card!
 Also I changed all the (1206 size) resistors to the more common 0805 size
 so from jan 10, 2023 the files here are for revision 1,2
+
+I added a .png picture showing a 3D preview of a partially built up TZXDuino-pico, but the only parts missing are the Arduino-nano, and the two buttons. See TZXDuino-nano preview.
