@@ -18,4 +18,4 @@ This is revision 1,2 It has a 180 degrees rotated card holder, as the card neede
 Also I changed all the (1206 size) resistors to the more common 0805 size
 so from jan 10, 2023 the files here are for revision 1,2
 
-I added a .png picture showing a 3D preview of a partially built up TZXDuino-pico, but the only parts missing are the Arduino-nano, and the two buttons. See TZXDuino-nano preview.
+I added a .png picture showing a 3D preview of a partially built up TZXDuino-pico, but the only parts missing are the Arduino-nano, and the two buttons. See TZXDuino-pico preview.
